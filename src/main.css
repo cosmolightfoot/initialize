@@ -1,0 +1,23 @@
+body {
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    font-family: fantasy;
+}
+
+h2 {
+    font-family: fantasy;
+}
+
+.hidden {
+    visibility: hidden;
+    width: 250px;
+    height: 250px
+}
+
+img {
+    width: 250px;
+    height: auto;
+}
